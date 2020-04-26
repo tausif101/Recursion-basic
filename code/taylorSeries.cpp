@@ -18,8 +18,8 @@ double e(int x, int n)
 
 int main()
 {   
-    cout<<fixed;
-    cout<<std::s
+    //cout<<fixed;
+    //cout<<std::s
     cout<<e(2,10);
     return 0;
 }
